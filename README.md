@@ -99,7 +99,14 @@ int main() {
 
 # OUTPUT:
 
-<img width="641" height="411" alt="Screenshot 2025-08-25 133028" src="https://github.com/user-attachments/assets/eae1ba3a-1e55-43c6-98ae-2426b509f556" />
+symbol found:
+
+<img width="548" height="479" alt="Screenshot 2025-08-26 083802" src="https://github.com/user-attachments/assets/d7811cc6-ac19-4530-9bf6-1101edfe48b3" />
+
+
+symbol not found:
+
+<img width="539" height="432" alt="Screenshot 2025-08-26 083326" src="https://github.com/user-attachments/assets/121b7f45-3f4c-4865-9fcf-37f4b2857ef7" />
 
 
 # RESULT:
